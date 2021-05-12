@@ -1,0 +1,11 @@
+{
+    "<<NOME_DA_CONEXAO>>": {
+        "user": "<<CREDENCIAL DE USUÁRIO DA BASE A ACESSAR>>",
+        "password": "<<SENHA DE USUÁRIO>>",
+        "host": "<<jdbc:<<SUA BASE>>://URL DO SERVIDOR OU IP LOCAL>>",
+        "name": "<<NOME DA INSTÂNCIA>>",
+        "db": "<<NOME DA BASE>>",
+        "port": "<<PORTA DEFAULT OU CUSTOM DO DATA SERVER>>",
+        "folder": "<<NOME DA PASTA QUE IRÁ SEUS DATAFRAMES>>"
+    }
+}
