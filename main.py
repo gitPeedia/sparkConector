@@ -23,9 +23,7 @@ enviroment=None
 
 ######  CSV criaçao ######
 file_type = "csv"
-CSV_path = "/home/diego/Documentos/arquivos/carga/{}/{}/"
-file_path = "/home/diego/Documentos/arquivos/carga/json/"
-arquivo = "/home/diego/Documentos/arquivos/carga/planodb/cliente"
+#CSV_path = "/home/diego/Documentos/arquivos/carga/{}/{}/"
 table = "acionamento"
 delimiter = ","
 first_row_is_header = "true"
